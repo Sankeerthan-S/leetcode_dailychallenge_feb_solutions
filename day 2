@@ -1,4 +1,5 @@
 //Sequential Digits--1291 No.
+
 class Solution {
     public List<Integer> sequentialDigits(int low, int high) {
         List<Integer> a = new ArrayList<>();
